@@ -1,0 +1,9 @@
+ROLE_ADMIN = "ADMIN"
+ROLE_HR = "HR"
+ROLE_EMPLOYEE = "EMPLOYEE"
+
+ROLE_CHOICES = [
+    (ROLE_ADMIN, "Admin"),
+    (ROLE_HR, "HR"),
+    (ROLE_EMPLOYEE, "Employee"),
+]
