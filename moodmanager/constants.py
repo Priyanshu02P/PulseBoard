@@ -1,0 +1,9 @@
+MOOD_SMILEY = 'SMILEY'
+MOOD_FLAT = 'FLAT'
+MOOD_FROWN = 'FROWN'
+
+MOOD_CHOICES = [
+    (MOOD_SMILEY, 'Smiley'),
+    (MOOD_FLAT, 'Flat'),
+    (MOOD_FROWN, 'Frown'),
+]
